@@ -1,17 +1,18 @@
 version: v1.0
-name: MaestroCI Auto Builder
+name: MaestroCI Builder
 agent:
   machine:
     type: e1-standard-2
     os_image: ubuntu1804
+
 blocks:
-  - name: "MaestroCI"
+  - name: Static Site Builder
     task:
-      secrets:
-        - name: api-keys
       jobs:
-      - name: Build
+      - name: Job
         commands:
           - checkout
           - docker build . -t ci
           - docker run -it -e GH_PERSONAL_TOKEN=${GH_PERSONAL_TOKEN} ci
+      secrets:
+        - name: api-keys
