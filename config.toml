@@ -39,30 +39,30 @@ googleAnalytics = "UA-149264131-1"
     weight = 1
     url = "/about"
   [[menu.main]]
-    name = "builds"
+    name = "drone"
     weight = 2
     url = "https://builds.baalajimaestro.me"
   [[menu.main]]
-      name = "bugtracker"
+      name = "taiga"
       weight = 3
-      url = "https://bugtracker.baalajimaestro.me"
+      url = "https://taiga.baalajimaestro.me"
 [[params.social]]
       name = "GitHub"
       icon = "fab fa-github fa-2x"
       url = "https://github.com/baalajimaestro"
 [[params.social]]
-      name = "Instagram"
-      icon = "fab fa-instagram fa-2x"
-      url = "https://instagram.com/baalajimaestro"
+      name = "Twitter"
+      icon = "fab fa-twitter fa-2x"
+      url = "https://twitter.com/baalajimaestro"
 [[params.social]]
-      name = "Keybase"
-      icon = "fab fa-keybase fa-2x"
-      url = "https://keybase.io/baalajimaestro"
+      name = "Telegram"
+      icon = "fab fa-telegram fa-2x"
+      url = "https://t.me/baalajimaestro"
 [[params.social]]
-      name = "DEV.to"
-      icon = "fab fa-dev fa-2x"
-      url = "https://dev.to/baalajimaestro"
+      name = "Reddit"
+      icon = "fab fa-reddit fa-2x"
+      url = "https://www.reddit.com/user/baalajimaestro"
 [[params.social]]
-      name = "GPG"
-      icon = "fas fa-key fa-2x"
-      url = "https://keybase.io/baalajimaestro/pgp_keys.asc?fingerprint=2f3e6c399e361e3b3eab9714749b6f0230ade7b7"
+      name = "Discord"
+      icon = "fab fa-discord fa-2x"
+      url = "https://discord.com/users/404797553272684555"
