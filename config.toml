@@ -52,7 +52,7 @@ googleAnalytics = "G-1HFN16CETJ"
       url = "https://git.sr.ht/~baalajimaestro"
 [[params.social]]
       name = "GnuPG"
-      icon = "fab fa-gnupg fa-2x"
+      icon = "fas fa-key fa-2x"
       url = "http://keys.gnupg.net/pks/lookup?op=get&search=0xF93C394FE9BBAFD5"
 [[params.social]]
       name = "Twitter"
@@ -72,6 +72,6 @@ googleAnalytics = "G-1HFN16CETJ"
       url = "https://discord.com/users/404797553272684555"
 [[params.social]]
       name = "Matrix"
-      icon = "fab fa-matrix-org fa-2x"
+      icon = "fab fa-maxcdn fa-2x"
       url = "https://matrix.to/#/@baalajimaestro:matrix.org"
 
