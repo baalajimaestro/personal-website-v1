@@ -38,14 +38,6 @@ googleAnalytics = "UA-149264131-1"
     name = "about me"
     weight = 1
     url = "/about"
-  [[menu.main]]
-    name = "drone"
-    weight = 2
-    url = "https://builds.baalajimaestro.me"
-  [[menu.main]]
-      name = "taiga"
-      weight = 3
-      url = "https://taiga.baalajimaestro.me"
 [[params.social]]
       name = "GitHub"
       icon = "fab fa-github fa-2x"
