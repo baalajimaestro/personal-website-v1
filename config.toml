@@ -3,7 +3,7 @@ baseurl = "https://baalajimaestro.me"
 languageCode = "en-us"
 title = "baalajimaestro"
 theme = "hello-friend-ng"
-googleAnalytics = "UA-149264131-1"
+googleAnalytics = "G-1HFN16CETJ"
 
 [params]
   author = "Baalaji Balasubramani"
