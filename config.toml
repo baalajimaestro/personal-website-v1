@@ -43,6 +43,18 @@ googleAnalytics = "UA-149264131-1"
       icon = "fab fa-github fa-2x"
       url = "https://github.com/baalajimaestro"
 [[params.social]]
+      name = "Gitlab"
+      icon = "fab fa-gitlab fa-2x"
+      url = "https://gitlab.com/baalajimaestro"
+[[params.social]]
+      name = "Sourcehut"
+      icon = "fab fa-git-alt fa-2x"
+      url = "https://git.sr.ht/~baalajimaestro"
+[[params.social]]
+      name = "GnuPG"
+      icon = "fab fa-gnupg fa-2x"
+      url = "http://keys.gnupg.net/pks/lookup?op=get&search=0xF93C394FE9BBAFD5"
+[[params.social]]
       name = "Twitter"
       icon = "fab fa-twitter fa-2x"
       url = "https://twitter.com/baalajimaestro"
@@ -58,3 +70,8 @@ googleAnalytics = "UA-149264131-1"
       name = "Discord"
       icon = "fab fa-discord fa-2x"
       url = "https://discord.com/users/404797553272684555"
+[[params.social]]
+      name = "Matrix"
+      icon = "fab fa-matrix-org fa-2x"
+      url = "https://matrix.to/#/@baalajimaestro:matrix.org"
+
