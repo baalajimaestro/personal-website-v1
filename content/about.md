@@ -3,20 +3,27 @@ title = "$whoami"
 id = "about"
 +++
 
-I am Baalaji Balasubramani, a 21 year old, popularly known around the internet world as baalajimaestro.
+I am Baalaji Balasubramani, a 22 year old, popularly known around the internet world as baalajimaestro.
 
 I work on a lot of opensource projects, you can find them all on my GitHub!
 
-I was using Linux as a primary OS for 4 years, and now I switched to WSL2, and nuked the dual boot, seems a lot better.
-I will not be writing a review about WSL2, rather I could say it does suit my needs!
+I use Linux as a primary distro for over 4 years now.
+My primary distro choices include Alpine (for servers), Arch (for desktops).
+
+I am currently running Debian Bullseye on an OrangePi 3 (ARM64)
+
+And yes, that is my primary development system too. I connect to Codespaces incase I desire to code anything that needs high amount of resources (Rust)
+
+GitHub Codespaces is a really good environment that is helping me do stuff even when I dont own a full-fledged PC.
 
 For programming, I use Rust or Python as my primary choice. I can also code in C, C++, Java, Javascript, PHP.
 I am looking forward to learning Go.
 I use Bash Scripting to automate all tasks. Like even deploying this website.
 
 I code all stuff with VSCode! No IDE specific for any language.
-I love to work with Docker and Kubernetes clusters. I have created a few [Docker Images](https://hub.docker.com/u/baalajimaestro) for my own personal use.
-Github is the only place for all my code. All my commits on github would be signed with the key provided on the home page. (Unless its tagged as MaestroCI).
+I love to work with Docker and Kubernetes clusters. I have created a few [Docker Images](https://hub.docker.com/u/baalajimaestro), newer ones are on Gitlab (blame Docker for ratelimiting pulls) respective repos, for my own personal use.
+
+My repos are currently split across sourcehut/gitlab/github. In increasing order of age.
 
 I am a person who feels music is a drug. Feel free to suggest me some nice music if you have some.
 

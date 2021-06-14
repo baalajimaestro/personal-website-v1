@@ -4,7 +4,7 @@ id = "contact"
 +++
 
 I would be available on [Telegram](https://t.me/baalajimaestro) almost all time except my sleep. You can DM me on telegram, provided you convey your information concisely and readably, rather than sending a dumb `hi` and expecting me to respond on it.
-If you don't have Telegram, no problems, you can tweet to me, [@baalajimaestro](https://twitter.com/baalajimaestro). You can ping me on discord(baalajimaestro#8313), or email me me@baalajimaestro.me.
+If you don't have Telegram, no problems, look up your if your preferred method is there at the home page.
 
 I respond to any message within the same day. If it wasnt responded, there is just two things:
 - Your question wasnt put forth properly, that it needed a response from my end
