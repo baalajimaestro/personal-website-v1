@@ -1,7 +1,7 @@
 #!/bin/bash
 cd /public
 git remote rm origin
-git remote add origin https://baalajimaestro:${GH_PERSONAL_TOKEN}@github.com/baalajimaestro/baalajimaestro.github.io
+git remote add origin https://baalajimaestro:${GH_PERSONAL_TOKEN}@github.com/baalajimaestro/personal-website
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 cd /app
