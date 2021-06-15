@@ -16,6 +16,9 @@ googleAnalytics = "G-1HFN16CETJ"
   keywords = "homepage, blog programming"
   contentTypeName = "posts"
   defaultTheme = "dark"
+  trademark = true
+  copyright = true
+  author = true
   copyright = "Copyrights Reserved. Maestro Creativescape"
   [params.logo]
     logoText     = "$ baalajimaestro"
