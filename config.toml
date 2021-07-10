@@ -186,6 +186,7 @@ disableHugoGeneratorInject = false
       url = "https://discord.com/users/404797553272684555"
   [[params.social]]
       name = "matrix"
+      icon = "fa fa-matrix-org fa-2x"
       url = "https://matrix.to/#/@baalajimaestro:matrix.org"
 
 [languages]
