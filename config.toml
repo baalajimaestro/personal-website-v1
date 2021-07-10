@@ -167,7 +167,7 @@ disableHugoGeneratorInject = false
   [[params.social]]
       name = "GnuPG"
       icon = "las la-key la-2x"
-      url = "http://keys.gnupg.net/pks/lookup?op=get&search=0xF93C394FE9BBAFD5"
+      url = "https://keys.openpgp.org/vks/v1/by-fingerprint/35EA585CF08135747CE5DDB4F93C394FE9BBAFD5"
   [[params.social]]
       name = "Twitter"
       icon = "lab la-twitter la-2x"
