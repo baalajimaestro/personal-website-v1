@@ -154,39 +154,38 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
       name = "GitHub"
-      icon = "fab fa-github fa-2x"
+      icon = "lab la-github la-2x"
       url = "https://github.com/baalajimaestro"
   [[params.social]]
       name = "Gitlab"
-      icon = "fab fa-gitlab fa-2x"
+      icon = "lab la-gitlab la-2x"
       url = "https://gitlab.com/baalajimaestro"
   [[params.social]]
       name = "Sourcehut"
-      icon = "fab fa-git-alt fa-2x"
+      icon = "lab la-git la-2x"
       url = "https://git.sr.ht/~baalajimaestro"
   [[params.social]]
       name = "GnuPG"
-      icon = "fas fa-key fa-2x"
+      icon = "lab la-key la-2x"
       url = "http://keys.gnupg.net/pks/lookup?op=get&search=0xF93C394FE9BBAFD5"
   [[params.social]]
       name = "Twitter"
-      icon = "fab fa-twitter fa-2x"
+      icon = "lab la-twitter la-2x"
       url = "https://twitter.com/baalajimaestro"
   [[params.social]]
       name = "Telegram"
-      icon = "fab fa-telegram fa-2x"
+      icon = "lab la-telegram la-2x"
       url = "https://t.me/baalajimaestro"
   [[params.social]]
       name = "Reddit"
-      icon = "fab fa-reddit fa-2x"
+      icon = "lab la-reddit la-2x"
       url = "https://www.reddit.com/user/baalajimaestro"
   [[params.social]]
       name = "Discord"
-      icon = "fab fa-discord fa-2x"
+      icon = "lab la-discord la-2x"
       url = "https://discord.com/users/404797553272684555"
   [[params.social]]
-      name = "Matrix"
-      icon = "fab fa-maxcdn fa-2x"
+      name = "matrix"
       url = "https://matrix.to/#/@baalajimaestro:matrix.org"
 
 [languages]
