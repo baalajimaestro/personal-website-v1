@@ -166,7 +166,7 @@ disableHugoGeneratorInject = false
       url = "https://git.sr.ht/~baalajimaestro"
   [[params.social]]
       name = "GnuPG"
-      icon = "lab la-key la-2x"
+      icon = "las la-key la-2x"
       url = "http://keys.gnupg.net/pks/lookup?op=get&search=0xF93C394FE9BBAFD5"
   [[params.social]]
       name = "Twitter"
