@@ -31,4 +31,4 @@ It's hard to see me without writing or thinking about code, even if you happen t
 
 If you ﬁnd some­one with the user­name `baalajimaestro` on any platform, you can be mostly sure its me
 
-I am open for hire, and I haven't attached my resume here, I could mail it to you if you are interested!
+I am currently working at TheCareerLabs as a DevOps Engineer
