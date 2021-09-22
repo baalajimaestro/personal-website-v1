@@ -61,12 +61,12 @@ git clone https://github.com/LineageOS/android_prebuilts_extract-tools -b lineag
 
 cd to the android folder and,
 
-git clone your dt to the usual path like you would while building, like device/brand/codename
+git clone your dt to the usual path like you would while building, like `device/brand/codename`
 
 Clone the common tree also, if it exists
 
-Check if your extract-files.sh is updated to track tools/extract-utils, if it's not, or the file itself doesn't exist,
-you need to get it from Github, it's almost on every tree.
+Check if your extract-files.sh is updated to track `tools/extract-utils`, if it's not, or the file itself doesn't exist,
+you need to get it from GitHub, it's almost on every tree.
 
 ```code
 bash extract-files.sh /path/to/dumpyara/working/zipname/
@@ -74,8 +74,8 @@ bash extract-files.sh /path/to/dumpyara/working/zipname/
 
 Wait and watch it do its thing
 
-Once that is done, you just need to go to vendor/brand/codename and,
+Once that is done, you just need to go to `vendor/brand/codename` and,
 
 git init, commit and push it up!
 
-This should be done for the common tree also which would be vendor/brand/smxx-common
+This should be done for the common tree also which would be `vendor/brand/smxx-common`
