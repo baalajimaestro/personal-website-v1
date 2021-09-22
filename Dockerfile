@@ -9,13 +9,11 @@ RUN curl -sLo hugo-${HUGO_VERSION}.tar.gz "https://github.com/gohugoio/hugo/rele
     && mv hugo /usr/bin/hugo \
     && rm -rf LICENSE README.md hugo-${HUGO_VERSION}.tar.gz
 
-COPY . /app
-RUN cd /app && git submodule update --init --recursive
-RUN git clone https://github.com/baalajimaestro/personal-website -b master /public
-
 RUN git config --global user.email "me@baalajimaestro.me"
 RUN git config --global user.name "baalajimaestro"
 
+COPY push.sh /root
+
 WORKDIR /app
 
-CMD ["bash", "push.sh"]
+CMD ["bash", "/root/push.sh"]
